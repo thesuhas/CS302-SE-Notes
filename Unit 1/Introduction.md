@@ -12,7 +12,7 @@
 
 A Software Product developed using Software Engineering principles has a **higher probability** of being **more efficient and reliable**.
 
-It drives the usage of **appropriate tools and techniques** while taking into account the constraints and resources availanle.
+It drives the usage of **appropriate tools and techniques** while taking into account the constraints and resources available.
 
 ## Software Engineering vs Computer Science
 
