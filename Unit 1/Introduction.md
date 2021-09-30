@@ -45,3 +45,21 @@ It drives the usage of **appropriate tools and techniques** while taking into ac
 
 11) **Consistency and Repeatability**
 
+## Software Lifecycle
+
+Also known as **Software Process**.
+
+It involves a **structured set** of **steps** resulting in various intermediate and final products.
+
+Each lifecycle step has a **guiding principle** indicating the **goal** of the phase, i.e., what needs to be done and present as a deliverable in that step.
+
+**Products** are outcomes of executing process or a sequence of processes  on a particular project.
+
+Each of the steps in a Software Lifecycle has the following attributes:
+
+- **Entry Criteria**: What initiates this phase.
+- **Exit Criteria**: What indicates the completion of this phase.
+- **Task or deliverables**: Work or tasks to be done in this phase.
+- **Dependencies**: The dependencies for this phase.
+- **Contraints**: Various constraints pertaining to this phase of development, can be schedule or resource constraints.
+- **Who**: People responsible for this phase.
