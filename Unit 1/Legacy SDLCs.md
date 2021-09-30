@@ -99,3 +99,30 @@ Partition requirements can have their own lifecycle like [Waterfall](#Waterfall-
 - When product needs to reach market early.
 - Where major requirements are defined.
 - All the resources with the required skill set is not present.
+
+## Iterative Model
+
+![Iterative Model](images/iterative_model.png)
+
+Starts with a skeleton system, is refined through user feedback till the system is complete.
+
+### Advantages:
+
+- Helps in identifying requirements (user feedback).
+- Incremental investment.
+- Supports risk mitigation.
+
+### Disadvantages:
+
+- Costly system as all design requirements are gathered up front. Can lead to design issues.
+- Each phase of iteration is rigid.
+
+### Usage:
+
+- Large Projects
+
+### Difference between Incremental Model and Iterative Model
+
+- Incremental model does not require going back and changing things that have been already implemented. Iterative model requires revisiting and refining implemented features.
+- Incremental focuses on features that have not been implemented.
+- Iterative leverages on experience and knowledge acquired till then.
