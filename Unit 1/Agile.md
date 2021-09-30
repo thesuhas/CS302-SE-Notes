@@ -14,6 +14,12 @@
 - Continual realignment of development goals to coincide with changing customer requirements.
 - Aimed at reducing massive planning overhead and to allow fast reactions to change.
 
+Aims for **iterative development** to get a product with a subset of features into users hands as soon as possible.
+
+Has small batch sizes to work in **sprints** that delivers software quickly.
+
+Focuses on course correction during development to reduce cost of post-deployment support.
+
 ## Agile Manifesto:
 
 - Individuals and interactions **over** processes and tools.
