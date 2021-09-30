@@ -93,3 +93,9 @@ Partition requirements can have their own lifecycle like [Waterfall](#Waterfall-
 - Total cost is higher than Waterfall.
 - Management visibility is reduced only to current incrementation and could result in surprises.
 - Hard to identify common resources that are needed by multiple increments.
+
+### Usage:
+
+- When product needs to reach market early.
+- Where major requirements are defined.
+- All the resources with the required skill set is not present.
