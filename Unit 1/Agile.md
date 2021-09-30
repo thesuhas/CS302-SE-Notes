@@ -30,3 +30,33 @@
 |Little or no planning required. | Very high individual dependency, leading to very less documentation. |
 |Good for environments that change steadily. | Transfer of tech to new team members will be touch due to lack of sufficient documentation. |
 
+## XP
+
+Continues feedback and test-driven development. Delivers working software at an interval of 1-2 weeks (lesser than SCRUM).
+
+Delivers highest priority user stories in the form of tested software on an iteration by iteration basis.
+
+#### Common practices in XP:
+
+- Small releases with simple design.
+- Customer is **onsite** and **involved in development**.
+- Coding standards.
+- **Sustainable pace**, results in everyone working 40 hours a week.
+- **Pair Programming**: two or more people work together. 
+- **Collective code ownership**: anyone can change the code.
+
+**Note**: XP specifies software engineering practices like those mentioned above, SCRUM is framework of management for product.
+
+**Usage**: Requirements are unsure, system is not too big and customer is onsite.
+
+## Lean - Agile
+
+Seeks to **identify and eliminate activity** that is **not valued by customer or end-user**.
+
+This results in:
+
+- Eliminating unnecessary meetings, documentation, inefficient management such as unnecessary multi-tasking and manages flow and delivers value.
+- Drives continuous inspection to adapt and improve. Called **Kaizen**.
+- Focus is to provide product that addresses customers needs in the most efficient manner possible.
+- Aims to reduce costs by reducing reworks and variants (as they are expensive).
+
