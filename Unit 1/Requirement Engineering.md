@@ -69,3 +69,6 @@ Characteristics of documentation:
 - **External Interfaces**: How the software interacts with other interfaces, people and devices.
 - **Non-Functionality**: All of the quality criterias which drive the functionality such as performance, availability, portability, etc.
 
+## Requirements Validation
+
+- Purpose is to ensure that the requirement does what the customer wants it to do.
