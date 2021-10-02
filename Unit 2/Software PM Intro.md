@@ -40,6 +40,4 @@ Project plan needs to answer these questions from the **Execution Stakeholders**
 
 - Lifecycle being followed
 - Criteria for requirement prioritisation
-- Communication mechanismsx
-
-![Project Planning](images/PM_plan.png)
+- Communication mechanisms
