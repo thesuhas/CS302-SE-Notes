@@ -46,8 +46,8 @@ Infrequent interaction between stakeholders and users. Some examples are:
 
 ## Requirements Specification
 
-Documentation of a set of requirements that is reviewed and approved by the customer for the next stage.
-Basis for what the customers and contractors decided what to implement and what to not implement.
+- Documentation of a set of requirements that is reviewed and approved by the customer for the next stage.
+- Basis for what the customers and contractors decided what to implement and what to not implement.
 
 Documentation is required for the following reasons:
 
@@ -72,3 +72,37 @@ Characteristics of documentation:
 ## Requirements Validation
 
 - Purpose is to ensure that the requirement does what the customer wants it to do.
+- Very important as repairing requirements errors later can be very expensive.
+- **Validation**: Ensures that the requirements specified will solve the right problems and satisfy user needs.
+- **Verification**: Determines whether requirements have been specified correctly.
+
+### Prototyping
+
+- Facilitates user involvement in design phase and ensures engineers have the correct understanding of the requirements.
+- Systems with very less or no user interaction may not benefit as much from prototyping.
+
+### Model Validation
+
+- Ensures that the model has all the essential requirements.
+- Fishbone Analysis technique is used to validate requirements.
+
+### Acceptance Criteria
+
+- Use `Acceptance Criteria` to see if all the requirements match with the acceptance criteria.
+
+## Requirements Management
+
+Baseline on which future lifecycles rely on.
+
+Requirements can change due to:
+
+- Changing customer demands.
+- Better understanding of the problem.
+- Evolving environment and technology.
+
+Requirements management:
+
+- Ensures that the requirements are met in each lifecycle phase.
+- Ensures that changes in requirements are handled appropriately.
+
+Uncontrolled changes can have adverse effects. Changes must be controlled and must be prepared for.
