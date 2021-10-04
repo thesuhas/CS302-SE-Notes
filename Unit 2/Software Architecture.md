@@ -86,3 +86,21 @@ Ways of describing the architecture, enables different stakeholders to see diffe
 ### Kruchens (4 + 1) View
 
 TODO
+
+
+## Architecture Styles
+
+It is a pattern of organisation of components and can be identified by features that make it notable (worthy of attention).
+
+It is a way of organising modules.
+
+Addresses the structure and behaviour of the system (think about historical monuments and their style relating to their region).
+
+Provides the following:
+
+- **Vocabulary**: set of elements such as clients, servers, pipes, etc.
+- **Design Rules**: defines how various componenets are connected to each other.
+- **Semantics**: well-defined meaning to why the components are connected the way they are.
+- **Analysis**: styles provide analytics that can be done on systems built that way such as deadlock detection, scheduling, etc.
+
+Similar to [Components and Connectors](#Components-and-Connector-Structure).
