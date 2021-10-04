@@ -25,3 +25,41 @@ Factors that influence Software Architecture:
 - Background skill required
 - Initial State
 - Business Priority
+
+## Software Decomposition
+
+#### Based on Layering
+
+Ordering the system based on different layers such as UI, backend, etc.
+
+#### Based on Distribution of Computational Resources
+
+- Dedicated task owning a thread and hence some processes not needing to wait for thread allocation.
+- Done for greater fault isolation.
+- Distribution of separation of concern with redundancy leading to high availability.
+
+#### Decomposition based on Exposure
+
+- Decomposition done on how the component is **exposed**, and what services it consumes.
+
+#### Decomposition based on Functionality
+
+- Decomposition done on the features or functionality provided. Done by grouping within the problem domain.
+
+#### Decomposition based on Generality
+
+- Trying to understand which components can be used in other places as well.
+
+### Other approaches to Decomposition
+
+- **Divide and Conquer**: Divide complex problem into smaller steps.
+- **Stepwise Refinement**: Start with simple solution and enhance it step by step.
+- **Top-Down**: Start with overall view and then go to subsytems.
+- **Bottom-Up**: Start with individual elements and then compose them together.
+- **Information Hiding**: Separation of information from implementation.
+
+
+## Architectural Views
+
+Ways of describing the architecture, enables different stakeholders to see different views of the system. 
+
