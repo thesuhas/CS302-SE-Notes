@@ -45,4 +45,4 @@
 
 ### Scheduling and Allocating Resources
 
-- Calendarisation of the work activities that are received from [WBS](#WBS---Work-Breakdown-Structure) and [Estimation of Effort](#Estimation-of-Effort).
+- Calendarisation of the work activities that are received from [WBS](#wbs---work-breakdown-structure) and [Estimation of Effort](#estimation-of-effort).
