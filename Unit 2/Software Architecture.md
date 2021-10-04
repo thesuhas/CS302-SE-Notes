@@ -103,4 +103,4 @@ Provides the following:
 - **Semantics**: well-defined meaning to why the components are connected the way they are.
 - **Analysis**: styles provide analytics that can be done on systems built that way such as deadlock detection, scheduling, etc.
 
-Similar to [Components and Connectors](#Components-and-Connector-Structure).
+Similar to [Components and Connectors](#Component-and-Connector-Structure).
