@@ -104,3 +104,27 @@ Provides the following:
 - **Analysis**: styles provide analytics that can be done on systems built that way such as deadlock detection, scheduling, etc.
 
 Similar to [Components and Connectors](#Component-and-Connector-Structure).
+
+## Architecture Patterns
+
+Proven approach of structuring and functioning of subsystems which has been used earlier and known to work for given problem.
+
+Potential solution to a recurring problem.
+
+#### Monolithic or Single-Tiered Architecture
+
+- Contains single layer with UI, manipulation of data and logic all in one. Eg: Microsoft Word
+
+#### Two-Tiered Architecture
+
+- User interface is part of the client system.
+- Business rules and data retrieval/manipulation is performed by a separate application, often on a physically different system.
+
+Eg: Client-Server Applications
+
+#### Three-Tiered Architecture
+
+- User interface, business layer (or the logic) and database are separate.
+- User interface just consists of the **display**.
+- Functionalities are provided through the **business layer** or **logic**.
+- Data is stored (persistent) in the **data tier**.
