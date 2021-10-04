@@ -81,7 +81,7 @@ Ways of describing the architecture, enables different stakeholders to see diffe
 
 - **Deployment Structure** shows how software is assigned to hardware and what communication paths are used. Allows engineer to reason out performance, data integrity, security, among others.
 - **Implementation Structure** shows how software is mapped to file system in various system environments.
-- **Work Assignment** shows how work is assigned and what knowledge is neede where.
+- **Work Assignment** shows how work is assigned and what knowledge is needed where.
 
 ### Kruchens (4 + 1) View
 
