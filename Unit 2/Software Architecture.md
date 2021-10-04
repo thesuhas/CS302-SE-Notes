@@ -63,3 +63,26 @@ Ordering the system based on different layers such as UI, backend, etc.
 
 Ways of describing the architecture, enables different stakeholders to see different views of the system. 
 
+### Structure of Modules
+
+- **Modules** are units of code having their own functionality.
+- Stucture the system as a set of modules.
+- Architect decides what each unit of code will do and assigns it to a module.
+- Used as basis for project organisation and documentation.
+- Larger modules can be broken into smaller modules as and when necessary.
+
+### Component and Connector Structure
+
+- **Component** or **Processing Element** software that connects input to outputs. Could do a computation, or act as a server. (I think it's just a component in a system?)
+- **Data** is the information to be processed or that has already been processed.
+- **Connecting Element** connects the components and the data.
+
+### Allocation Structure
+
+- **Deployment Structure** shows how software is assigned to hardware and what communication paths are used. Allows engineer to reason out performance, data integrity, security, among others.
+- **Implementation Structure** shows how software is mapped to file system in various system environments.
+- **Work Assignment** shows how work is assigned and what knowledge is neede where.
+
+### Kruchens (4 + 1) View
+
+TODO
