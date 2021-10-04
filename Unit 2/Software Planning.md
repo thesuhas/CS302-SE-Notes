@@ -41,6 +41,6 @@
 - **Large**: Large team size, very complex, need people with sufficient experience.
 - **Semi-detatched**: In between these two.
 
-Effort = a<sub>b</sub> (Kilo Lines of Code) <sup>b<sub>b</sub></sup> Person Months
+**Effort = a<sub>b</sub> (Kilo Lines of Code) <sup>b<sub>b</sub></sup> Person Months**
 
 
