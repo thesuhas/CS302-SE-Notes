@@ -43,4 +43,6 @@
 
 **Effort = a<sub>b</sub> (Kilo Lines of Code) <sup>b<sub>b</sub></sup> Person Months**
 
+### Scheduling and Allocating Resources
 
+- Calendarisation of the work activities that are received from [WBS](#WBS---Work-Breakdown-Structure) and [Estimation of Effort](#Estimation-of-Effort).
