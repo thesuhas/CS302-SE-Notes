@@ -68,3 +68,22 @@ Focuses on essential properties and ignores details that are not relevant for th
 
 - **Error**: mistake in code that leads to code crashing or unexpected output, must be handled.
 - **Exception**: unexpected event that occurs during program flow, needs to be handled.
+
+## Data Flow Diagram (DFD)
+
+Has two steps:
+
+- **Structured Analysis (SA)**: logical design, drawn as **data flow diagram**.
+- **Structured Design (SD)**: transforms logical structure into program structure as a set of **structure charts**.
+
+![DFD](images/DFD.png)
+
+Components of a DFD are:
+
+- **External Entities**: source/dest. of a transaction.
+- **Processes**: transform the data.
+- **Data Flows**: paths where data travels between processes.
+- **Data Stores**: Lie between processes.
+
+![SA SD](images/SA_SD.png)
+
