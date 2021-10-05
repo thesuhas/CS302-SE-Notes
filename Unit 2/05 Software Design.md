@@ -87,3 +87,26 @@ Components of a DFD are:
 
 ![SA SD](images/SA_SD.png)
 
+## Design Patterns
+
+TODO
+
+## Service Oriented Architecture
+
+SOA is a software design methodology that combines various discrete software modules, also known as services to provide functionalities of a larger, more complex software application.
+
+Idea comes from **separation of concern**, which is the breaking down of one large problem into a series of problems or concerns.
+
+A **service** is a logical representation of a repeatable business activity which has a specific outcome such as providing weather data or checking a credit card.
+
+Are implemented as discrete pieces of software that are **callable entities** or functionalities that can be accessed via messages (or events).
+
+Characteristics of Services:
+
+- Services adhere to a communication agreement, i.e., a protocol.
+- Services are loosely coupled and minimise dependencies.
+- Services are stateless, leads to minimisation of resource utilisation.
+- Services are autonomous, no external entity controlling them.
+- Service abstraction, world does not need to know how it does the task, only what it does.
+- Interoperability.
+- Reusable and use open standards (Open Source).
