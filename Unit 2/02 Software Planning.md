@@ -33,15 +33,17 @@
 
 ### Estimation of Effort
 
-- Can use techniques like **Delphi**, **Modified Delphi**.
+- Can use **Experience-based** techniques like **Delphi**, **Modified Delphi**.
 
 ##### Constructive Cost Model - CoCoMo
 
 - **Organic**: Team size is small, have experience in similar problems, well understood problem.
-- **Large**: Large team size, very complex, need people with sufficient experience.
+- **Embedded**: Large team size, very complex, need people with sufficient experience.
 - **Semi-detatched**: In between these two.
 
 **Effort = a<sub>b</sub> (Kilo Lines of Code) <sup>b<sub>b</sub></sup> Person Months**
+
+**Time = c<sub>b</sub> (KLOC) d<sub>b</sub> Months**
 
 ### Scheduling and Allocating Resources
 
