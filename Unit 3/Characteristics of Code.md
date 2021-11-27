@@ -67,3 +67,26 @@ Comments should **explain and clarify** the code and **NOT** be a **repeat of th
 
 - Helps in **code reuse**. 
 - Improves efficiency of programmers and promotes sound programming practices.
+
+Examples:
+
+- Standard Headers for modules which can contain
+    
+    - Name
+    - Date of creation
+    - Synopsis of module and what it does
+    - Functions supported along with input and output parameters
+    - Global variables accessed
+
+- Different types of naming conventions for local and global variables.
+- Error return and exception handling conventions.
+
+#### Defensive Programming
+
+**Murphy's Law**: If anything can go wrong, it will.
+<br>Redundant code is incorporated to check system state after modifications.
+<br>Implicit assumptions are tested explicitly.
+
+#### Secure Programming
+
+Process of developing computer software in a way that guards against the **accidental** introduction of security vulnerabilities. Debugs, bugs and flaws are the primary cause of security vulnerabilities.
