@@ -2,7 +2,7 @@
 
 Different characteristics of code are:
 
-#### Program should be simple and clear
+### Program should be simple and clear
 
 Programs should be well thought out, well structured and should not fall prey to a programmer's tendency to jump start.
 
@@ -13,7 +13,7 @@ There shouldn't be **too many**:
 - Arguments per function
 - Conditions
 
-#### Naming and Naming Conventions
+### Naming and Naming Conventions
 
 Names should be meaningful and **not** be close to keywords.
 Should have **descriptive** names and good to use 2-3 character long names.
@@ -40,7 +40,7 @@ Naming conventions to **maximise portability** across compilers:
 
 [Source](https://barrgroup.com/embedded-systems/books/embedded-c-coding-standard/variable-rules/naming-conventions)
 
-#### Structuring
+### Structuring
 
 It refers to the dependencies between software components. They can be highlighted through proper naming and layout.
 
@@ -49,8 +49,21 @@ It refers to the dependencies between software components. They can be highlight
 - Can be logically grouped into various header files.
 - Needs to be well partitioned into the proper header files. Need to decide what variables and functions are exposed and what are not.
 
-#### Ease of Reading and Understanding
+### Ease of Reading and Understanding
 
 It is dependent on the visual layout of the code. Using **standardised indentation** (like in python) is used to illustrate the heirarchies in a program.
 <br>
 Comments should **explain and clarify** the code and **NOT** be a **repeat of the code** itself. Should explain the underlying logic in a clean and concise manner.
+
+### Coding Standards
+
+- They are rules that are **mandatory**. Provides a **uniform appearance** to code written by different engineers.
+- Improves readability, maintainability and reduces complexity.
+- Some of the practices followed are :
+
+    - **Defensive** programming.
+    - **Testable** programming.
+    - **Secure** programming.
+
+- Helps in **code reuse**. 
+- Improves efficiency of programmers and promotes sound programming practices.
