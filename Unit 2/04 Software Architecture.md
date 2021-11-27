@@ -85,8 +85,11 @@ Ways of describing the architecture, enables different stakeholders to see diffe
 
 ### Kruchens (4 + 1) View
 
-TODO
-
+- **Use Case View** which is exposing the requirements of the system or the scenarios
+- **Design View** which is the object model of the design
+- **Process View** which captures the concurrency and synchronization aspects of the design
+- **Implementation view** which describes the static organization of the software in its development environment
+- **Deployment View** which describes the mapping(s) of the software onto the hardware and reflects its distributed aspect
 
 ## Architecture Styles
 
