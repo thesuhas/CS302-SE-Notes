@@ -92,3 +92,23 @@ Features of version management:
 - Change history is recorded so can revert back to a previous version if necessary.
 - Better conflict resolution. 
 - Easier code maintenance and quality monitoring.
+
+### Build Management
+
+**Build Management**: Process of creating the application for a release by linking all the relevant source code files and libraries and compiling them, to build the artificats such as binary files and executable files.
+
+- Could involve finding all the components, compiling, linking and then sanity checking the binary files.
+- Done with tools such as Maven, Apache ANT, Make, etc.
+- Consists of compilation of various files in the **correct** order and then linking them in the **appropriate** order.
+- If source code in a file has not changed, does not need to be recompiled.
+
+### Install Management
+
+Software installation is the first interaction that developers have with a new user. **Impactful** in terms of customer experience. Failure of an installation will lead to a negative perception.
+
+- Can also involve interaction with the OS, to get validation of permissions and resources needed and to ensure enforcement of license and registration.
+
+### Promotion Management
+
+Changes made by programmer will only be present in the programmer's environment and will be promoted to a central master directory based on promotion policies.
+<br> Promotion will be based on some baselining criteria and will include verification for meeting that criteria. Once approved, will be moved to central master directory and will be available to other modules.
