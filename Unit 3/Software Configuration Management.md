@@ -112,3 +112,25 @@ Software installation is the first interaction that developers have with a new u
 
 Changes made by programmer will only be present in the programmer's environment and will be promoted to a central master directory based on promotion policies.
 <br> Promotion will be based on some baselining criteria and will include verification for meeting that criteria. Once approved, will be moved to central master directory and will be available to other modules.
+
+### Change Management
+
+A change could result in the creation of a different version or release of software. Deals with changes to CIs that have been baselined.
+<br><br>
+General change process:
+
+- Change is requested.
+- Given a unique identification number.
+- Change is assessed for impact to other modules.
+- Change is either accepted or rejected.
+- If accepted, implemented and then validated.
+
+<br>
+
+- **Complexity of Change management depends on project**: For smaller projects, change requests are informal and fast. 
+
+    - For complex projects, require detailed change request forms and approval from a CCB Member.
+
+- **Information required**: Description of proposed changes. Reason for making changes. Items affected by the changes.
+- **Tools, resources and training required to form assessment**: File comparison tools to identify changes. 
+
