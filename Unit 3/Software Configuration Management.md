@@ -116,7 +116,7 @@ Changes made by programmer will only be present in the programmer's environment 
 ### Change Management
 
 A change could result in the creation of a different version or release of software. Deals with changes to CIs that have been baselined.
-<br><br>
+<br>
 General change process:
 
 - Change is requested.
