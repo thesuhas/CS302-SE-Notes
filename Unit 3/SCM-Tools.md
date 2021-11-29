@@ -22,3 +22,18 @@ There are four types of tools:
 - **CruiseControl**: Open-source tool for software builds.
 - **FinalBuilder**: Has a GUI with an extensive library of scripts.
 - **Maven**: Based on the concept of a Project Object Model (**POM**).
+
+### Software Installation Tools
+
+Install tools are cross-platform and produce installers for Windows, MacOS, etc.
+
+- **Installer** is a computer program that installs files, drivers, and other software onto a computer. 
+- **Custom Installers**: Specifically made to install files they contain.
+- **General Purpose Installers**: Reading contents of software packages to be installed.
+- Can use a **Bootstrapper** which is a small installer that runs first and sets up the necessary pre-requisites.
+**Eg**: DeployMaster (Windows), InstallAware (Windows), InstallShield, etc.
+
+### Software Bug Tracking Tools
+
+It is an application that keeps track of reported bugs in software development projects. It is an **issue-tracking** system.
+<br>Gives a clear, centralised view of overall development requests.
