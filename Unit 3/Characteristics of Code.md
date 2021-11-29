@@ -89,4 +89,28 @@ Examples:
 
 #### Secure Programming
 
-Process of developing computer software in a way that guards against the **accidental** introduction of security vulnerabilities. Debugs, bugs and flaws are the primary cause of security vulnerabilities.
+Process of developing computer software in a way that guards against the **accidental** introduction of security vulnerabilities. Defects, bugs and flaws in logic are the primary cause of security vulnerabilities.
+
+Practices that can avoid these are:
+
+- **Validate Input**: validate input from all untrusted data sources.
+- **Heed Compiler Warnings**: Compile code using the **highest** warning level and modify your code by addressing these warnings. Use static and dynamic analysis tools to detect and eliminate additional security flaws.
+- **Default Deny**: Access decisions are based on permission. By default access is denied and certain identified accesses are permitted.
+- **Principle of Least Priviledge**: Every process should execute with the least set of priviledges required. Elevated priviledge should only be given for the least amount of time required to complete the task.
+- **Sanitise data**: Sanitise **all data** sent to systems such as command shells, relational databases and Commercial Off-the-Shelf Components (COTS).
+
+### Coding Guidelines
+
+- Recommended to be followed and are **not** mandatory.
+- Gives a uniform appearance to code written by different engineers.
+- Most guidelines are **generic** regarding the coding style that **helps in readability**.
+- Helps in detecting errors in the early phases of the project.
+
+### Refactoring Code
+
+- Improving the **internal structure** of the code while preserving its external behaviour.
+- It is intended to:
+
+    - Design and structure the implementation of the software while retaining its functionality.
+    - Improves objective attributes of code such as length and duplication that improve ease of maintenance.
+- It is **NOT** rewriting code, fixing bugs or improving observable aspects such as interface.

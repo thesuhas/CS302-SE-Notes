@@ -2,7 +2,7 @@
 
 **Software Construction/Implementation**: It is the detailed creation of working software through coding, reviews and unit testing.
 
-Fundamental goals when constructing/implementation:
+Fundamental **goals** when constructing/implementation:
 
 - Minimising Complexity
 - Anticipating Change
