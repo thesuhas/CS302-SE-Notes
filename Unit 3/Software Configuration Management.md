@@ -65,3 +65,30 @@ As not all items are under SCM, leads to two challenges:
 
 - **Baseline A**: APIs have been completely defined, bodies of methods need to be filled.
 - **Baseline B**: methods have been implemented and tested.
+
+### Branch Management
+
+**Codeline**: Progression of a set of source files and other artifacts, which make up software components that change over time.<br>
+
+**Branch**: Copy or clone of all or a portion of source code within the repository. It is a copy of a codeline.
+
+Reasons for branching:
+- Concurrent development.
+- Multiple versions of a solution.
+- Developers can experiment in isolation. Working without impacting others.
+
+**Merging** is integrating the changes in a particular branch so all the users can access these changes.<br>
+Branching can be done by customer, developer, module, etc.<br>
+
+### Version Management
+
+**Version Management**: Process of keeping track of different versions of software components and the systems in which they are used. Can be done with tools like Git.
+
+- Changes to a version are identified by a number known as the **revision** number.
+
+Features of version management: 
+
+- Changes are attributable or traceable due to the revision number.
+- Change history is recorded so can revert back to a previous version if necessary.
+- Better conflict resolution. 
+- Easier code maintenance and quality monitoring.
