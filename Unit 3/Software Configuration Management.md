@@ -35,3 +35,14 @@ SCM is the responsibility of the **whole team** and needs to be automated as muc
 - **Change Control Board (CCB) Member**: Responsible for approving and rejecting changes.
 - **Developer**: Creates versions triggered by change requests. Checks in changes and resolves conflicts.
 - **Auditor**: Responsible for validating the processes followed for selection and evaluating promotions for release. Ensures consistency and completeness of the release.
+
+### Configuration Management Activities
+
+![SCM Activities](./images/scm_activities.png)
+
+### Configuration Item Detection
+
+- **Configuration Item**: Independent or aggregation of hardware, software, or both, that is designated for configuration management and treated as a single entity in the SCM process.<br>
+**Eg**: Code files, manuals, system configurations, drivers for tests, etc.
+
+- Large projects can have thousands of entities that can be uniquely identified and brought under configuration management.
