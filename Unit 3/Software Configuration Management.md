@@ -46,3 +46,22 @@ SCM is the responsibility of the **whole team** and needs to be automated as muc
 **Eg**: Code files, manuals, system configurations, drivers for tests, etc.
 
 - Large projects can have thousands of entities that can be uniquely identified and brought under configuration management.
+
+As not all items are under SCM, leads to two challenges:
+
+- **Selection**: Need to select the right configuration items. Some items need to be maintained for software lifetime.
+- **Timing** (when to place under SCM): Too early leads to too much bureaucracy. Too late leads to too much chaos.
+
+### SCM Directories
+
+- **Programmer's Directory (IEEE Dynamic)**: Library for holding newly **created or modified** software entities. Controlled **only** by the programmer.
+- **Master Directory (IEEE Controlled)**: Manages current baseline(s) and changes to them. Entry is controlled and has to be verified. Changes **must** be authorised.
+- **Software Repository (IEEE Static)**: Archive for baselines released. Copies will be made available to requesting organisations.
+
+
+### Baselines
+
+**Baseline** is a specification/product that has been formally reviewed and agreed upon and serves as the basis for further development. Can only be changed through formal change control procedures.
+
+- **Baseline A**: APIs have been completely defined, bodies of methods need to be filled.
+- **Baseline B**: methods have been implemented and tested.
