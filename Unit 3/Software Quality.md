@@ -24,7 +24,7 @@ Quantifying quality is necessary in order to measure quality so that it can be e
 
 - **Attribute**: measurable physical or abstract property of an entity.
 - **Measure**: Quantitative indication of extent, amount, or size of some attribute. **Eg**: Number of errors
-- **Metric**: Measure to degree of which a system, component or process possesses a given attribute. **Eg**: Number of errors per person hours expended.
+- **Metric**: Measure to degree of which a system, component or process possesses a given attribute. Calculation between two measures. **Eg**: Number of errors per person hours expended.
 
 ### Properties of Metric
 
@@ -40,3 +40,13 @@ Quantifying quality is necessary in order to measure quality so that it can be e
 - Measure of quantifying and calculating the business value of quality activities.
 - Considers the costs incurred in both meeting and not meeting customer's quality expectations.
 - `Cost of Quality = Cost of Good Quality + Cost of Poor Quality`
+
+### Categorisation of Metrics
+
+- **Direct Measures**: Depends only on the value of the attribute. Other attributes are measured with respect to this. **Eg**: Cost, Effort, LoC, etc.
+- **Indirect Measures**: Derived from direct measures. **Eg**: productivity
+- **Size Oriented**: Size of the software produced. **Eg**: LoC, KLoC, Errors/KLoC, Defects/KLoC.
+- **Complexity Oriented**: LoC, Fan-In Fan-Out
+- **Product Metrics**: Assessing the state of project, tracking potential risks, evaluating teams ability to control quality.
+- **Process Metrics**: Gaining insight of software engineering tasks. Used for long term process improvements.
+- **Project Metrics**: Number of software developers, cost, schedule, staffing patterns.
