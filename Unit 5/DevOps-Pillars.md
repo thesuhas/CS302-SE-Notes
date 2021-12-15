@@ -13,7 +13,7 @@ Common themes that any organisation looking to implement DevOps needs to focus t
     - Equal Participation
     - **Theory of Mind**: Ability to recognise ones perspective and understanding that others have different perspective based on their own context.
 
-- Collaboration can be achieved by
+- Collaboration can be **achieved** by
 
     - Having a shared goal.
     - Effective Communication.
@@ -24,3 +24,17 @@ Common themes that any organisation looking to implement DevOps needs to focus t
 ### Affinity
 
 - Measure of strength of relationships between individuals, business units teams and even companies.
+- **Building Affinity** is the process of building these inter-team relationships, navigating different goals or metrics while keeping in mind shared organisational goals and fostering empathy between different groups of people.
+
+Can be **measured** via:
+
+- Shared time
+- Reciprocity of shared stories
+- Reciprocity of support
+- Intensity of relationships
+
+Can be achieved via:
+
+- Shared values
+- Consistent team culture
+- Team cohesion
