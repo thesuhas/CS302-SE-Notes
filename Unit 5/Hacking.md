@@ -7,6 +7,7 @@
 - Hackers use non-standard approaches or by exploiting weaknesses of systems. Typically motivated by money or the ability to use toys.
 - An **engineer** is someone who builds something possible within a fixed budget, while meeting certain guidelines, while meeting a performance and reliability benchmark, and make it aesthetically pleasing.
 <br>
+
 - Hackers who use deep knowledge of computer systems, their software and weaknesses can be classified into two types:
 
     - **White Hat Hackers**: Strive to improve the security of an organisation by finding vulnerabilities and fixing them before the black hats notice.
