@@ -5,3 +5,4 @@
 3) [Software Ethics](./Software-Ethics.md)
 4) [DevOps Intro](./Devops.md)
 5) [DevOps Pipeline](./DevOps-Pipeline.md)
+6) [Pillars of DevOps](./DevOps-Pillars.md)
