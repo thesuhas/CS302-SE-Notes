@@ -34,3 +34,16 @@ Merged code needs to be **built**, post which needs to be validated for **Sanity
 - Triggered by last step in the Integration process, supports delivery to either test or production environment.
 - Supports faster time to market and higher quality products. Can also support **deploy on demand**.
 
+## Continuous Testing
+
+- Executing predominantly **automated** tests to validate code and ensure that application behaves as expected, is free of bugs/defects and can be Continuously Deployed.
+- Designed to be executed with minimum wait times, provide earliest feedback and support detection of risks that are most critical for the business/organisation.
+- Done after CI, can be run multiple times a day, i.e., everytime the application is updated in the Version Control System (VCS).
+
+## Continuous Deployment
+
+- Uses delivery mechanisms for deploying automated testing products to production environments.
+- Used in **highly mature** DevOps teams.
+- Validated integrated components are batched together and deployed into customer environment.
+- Automates the process of moving code from one machine to another and validating it to ensure it works correctly. Helps organisations focus on core business needs instead of infrastructure overhead.
+
