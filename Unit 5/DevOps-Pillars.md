@@ -23,7 +23,7 @@ Common themes that any organisation looking to implement DevOps needs to focus t
 
 ### Affinity
 
-- Measure of strength of relationships between individuals, business units teams and even companies.
+- Measure of strength of relationships between individuals, business units, teams and even companies.
 - **Building Affinity** is the process of building these inter-team relationships, navigating different goals or metrics while keeping in mind shared organisational goals and fostering empathy between different groups of people.
 
 Can be **measured** via:
