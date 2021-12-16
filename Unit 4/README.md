@@ -5,3 +5,4 @@
 3) [Structure of Test Organisation](./Structure-Test-Org.md)
 4) [Test Cases](./Test-Cases.md)
 5) [Software Test Metric](./Software-Test-Metric.md)
+6) [Software Maintenance](./Software-Maintenance.md)
