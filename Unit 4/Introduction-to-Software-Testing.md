@@ -46,6 +46,7 @@
 
 - Determines if the system/product meets the consumer requirements.
 - Done through **Dynamic Testing**. Involves the execution of code and is done by the testing team.
+- Validated if the necessary capabilities and features are present.
 - Done **after verification**.
 
 ## Terms
@@ -65,3 +66,13 @@
 - **Issue**: Raised by user/customer when the product does not work as intended with respect to functionality or performance.
 
     - Tracked.
+
+## Characterizing Testing
+
+- **Why** these observations are being made, based on test objective.
+- **How** did we are arrive at these test cases, based on test strategy.
+- **Which** of the samples should we observe, based on test selection.
+- **How big** of a sample is to be used for testing.
+- **What** part of the program is being tested.
+- **Where** the testing happens in the system.
+- **When** testing happens, the lifecycle.
