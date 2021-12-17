@@ -99,6 +99,16 @@ Practices that can avoid these are:
 - **Principle of Least Priviledge**: Every process should execute with the least set of priviledges required. Elevated priviledge should only be given for the least amount of time required to complete the task.
 - **Sanitise data**: Sanitise **all data** sent to systems such as command shells, relational databases and Commercial Off-the-Shelf Components (COTS).
 
+### Programming for Testability
+
+- **Assertions**: Used to identify out-of-range or inappropriate values.
+- **Test Points**: Used to set or retrieve module status and variable contents.
+- **Scaffolding**: Code used to emulate a feature that an object would call or send a message to.
+- **Test Harness**: Used to drive object, modules or components as if they were part of the complete system.
+- **Test Stubs**: Code that returns known fixed values and emulate functions currently not under test.
+- **Instrumenting**: Logging
+- **Building test data sets**: Testing both valid and invalid data.
+
 ### Coding Guidelines
 
 - Recommended to be followed and are **not** mandatory.
