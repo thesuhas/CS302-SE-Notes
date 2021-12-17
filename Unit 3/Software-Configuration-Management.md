@@ -134,3 +134,18 @@ General change process:
 - **Information required**: Description of proposed changes. Reason for making changes. Items affected by the changes.
 - **Tools, resources and training required to form assessment**: File comparison tools to identify changes. 
 
+### Release Management
+
+- Code in master directory is released to customers and moved to the software repository.
+- Release will have some sort of criteria to be met, post which authorisation for release will be given.
+- It is making the release available to the customer by deploying a release.
+
+**Important Terms**
+
+- **Release**: Formal distribution of an approved version.
+- **Version**: Initial release or re-release of a CI associated with a compilation of re-compilation of the item. Different versions can have different functionality.
+- **Revision**: Change to a version that corrects errors but does not change the documented functionality.
+
+### Bug or Defect Management
+
+- Management or bugs or defects through tools such as *Bugzilla*.
