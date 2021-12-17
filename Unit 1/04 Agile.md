@@ -38,7 +38,7 @@ Focuses on course correction during development to reduce cost of post-deploymen
 
 ## XP
 
-Continues feedback and test-driven development. Delivers working software at an interval of 1-2 weeks (lesser than SCRUM).
+Continuous feedback and test-driven development. Delivers working software at an interval of 1-2 weeks (lesser than SCRUM).
 
 Delivers highest priority user stories in the form of tested software on an iteration by iteration basis.
 
