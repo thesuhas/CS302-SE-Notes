@@ -58,7 +58,7 @@
 ### Identifying and Managing risks
 
 - **Risk** is an unexpected event that can affect people, resources, or technology involved.
-- Idenfitication of the risk (what can go wrong).
+- Identification of the risk (what can go wrong).
 - Assessment and analysis of the risk and its affects (probability and impact).
 - Mitigation and fall back plans (what can we do).
 - Identification of the Trigger (how we know the risk happened).
