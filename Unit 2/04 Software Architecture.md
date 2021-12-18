@@ -73,7 +73,7 @@ Ways of describing the architecture, enables different stakeholders to see diffe
 
 ### Component and Connector Structure
 
-- **Component** or **Processing Element** software that connects input to outputs. Could do a computation, or act as a server. (I think it's just a component in a system?)
+- **Component** or **Processing Element** software that converts input to outputs. Could do a computation, or act as a server. (I think it's just a component in a system?)
 - **Data** is the information to be processed or that has already been processed.
 - **Connecting Element** connects the components and the data.
 
@@ -102,7 +102,7 @@ Addresses the structure and behaviour of the system (think about historical monu
 Provides the following:
 
 - **Vocabulary**: set of elements such as clients, servers, pipes, etc.
-- **Design Rules**: defines how various componenets are connected to each other.
+- **Design Rules**: defines how various components are connected to each other.
 - **Semantics**: well-defined meaning to why the components are connected the way they are.
 - **Analysis**: styles provide analytics that can be done on systems built that way such as deadlock detection, scheduling, etc.
 
